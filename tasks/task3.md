@@ -22,6 +22,32 @@ index.html 파일을 열고 게임을 직접 실행해 봅시다.
 
 (여기에 버그를 유발한 커밋의 id와 어떻게 하면 버그를 수정할 수 있는지 적어주세요.)
 
+
+
+커밋 id : **25ede836903881848fea811df5b687b59d962da3**
+
+```bash
+commit 25ede836903881848fea811df5b687b59d962da3
+Author: Doug McInnes <doug@dougmcinnes.com>
+Date:   Wed May 26 23:52:00 2010 -0700
+
+    a couple missing ends with the ipad version
+```
+
+아이패드 버전 수정을 하면서 411번 째 줄이 삭제되어 총알이 끊임없이 발사되는 문제가 생기게 되었습니다.
+
+![task3](../resources/task3.png)
+
+
+
+따라서 수정하기 위하여 411번째 줄에 아래 코드를 추가하고 다시 게임을 실행해보면 정상적으로 작동하는 것을 확인할 수 있습니다.
+
+```js
+this.delayBeforeBullet = 10;
+```
+
+
+
 ### 힌트
 
 과제 2를 통해 커밋도 체크아웃 할 수 있다는 것을 배웠습니다. 이전 커밋을 체크하웃하면 타임머신을 타고 과거로 돌아갈 수 있습니다!
