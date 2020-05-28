@@ -1,6 +1,6 @@
 # 과제 1 (난이도 하)
 
-![git-and-github-initial-setup](..\resources\git-and-github-initial-setup.png)
+![git-and-github-initial-setup](../resources/git-and-github-initial-setup.png)
 
 (그림 [출처](https://docs.microsoft.com/en-us/contribute/get-started-setup-local))
 

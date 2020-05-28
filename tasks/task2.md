@@ -25,7 +25,7 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 
 ## 과제 완료 캡처 화면 - 다롬
 
-![git_1](..\resources\git_1.png)
+![git_1](../resources/git_1.png)
 
-![git_2](..\resources\git_2.png)
+![git_2](../resources/git_2.png)
 
