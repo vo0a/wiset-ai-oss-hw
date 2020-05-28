@@ -1,6 +1,6 @@
 # 과제 1 (난이도 하)
 
-![GitHub Triangle](../resources/git-and-github-initial-setup.png)
+![GitHub Triangle](C:/Users/ekfha/OneDrive/바탕 화면/다롬/WISET 2020 오픈소스 AI 실무형 인력양성교육(wiopen)/GitGitHub 입문/과제/wiset-ai-oss-hw/resources/git-and-github-initial-setup.png)
 
 (그림 [출처](https://docs.microsoft.com/en-us/contribute/get-started-setup-local))
 
