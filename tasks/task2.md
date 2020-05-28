@@ -25,7 +25,7 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 
 ## 과제 완료 캡처 화면 - 다롬
 
-![git_1](C:\Users\ekfha\OneDrive\바탕 화면\다롬\WISET 2020 오픈소스 AI 실무형 인력양성교육(wiopen)\GitGitHub 입문\과제\wiset-ai-oss-hw\resources\git_1.png)
+![git_1](..\resources\git_1.png)
 
-![git_2](C:\Users\ekfha\OneDrive\바탕 화면\다롬\WISET 2020 오픈소스 AI 실무형 인력양성교육(wiopen)\GitGitHub 입문\과제\wiset-ai-oss-hw\resources\git_2.png)
+![git_2](..\resources\git_2.png)
 
