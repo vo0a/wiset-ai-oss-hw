@@ -6,7 +6,7 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 
 과제 완료 후 화면을 캡쳐한 후, 이미지 내에 자신의 GitHub username을 적어주세요. 그리고 해당 이미지 파일을 resources 디렉터리로 옮긴 후, 아래와 같이 마크다운 파일에 삽입해 주시면 됩니다.
 
- 
+
 ## 과제 완료 캡쳐 화면
 
 자신의 username이 적힌 그림 파일이 하단에 보여야 합니다.
@@ -21,4 +21,11 @@ Learn Git Branching 사이트를 열어 모든 과제를 직접 끝내 봅시다
 
 
 
+
+
+## 과제 완료 캡처 화면 - 다롬
+
+![git_1](C:\Users\ekfha\OneDrive\바탕 화면\다롬\WISET 2020 오픈소스 AI 실무형 인력양성교육(wiopen)\GitGitHub 입문\과제\wiset-ai-oss-hw\resources\git_1.png)
+
+![git_2](C:\Users\ekfha\OneDrive\바탕 화면\다롬\WISET 2020 오픈소스 AI 실무형 인력양성교육(wiopen)\GitGitHub 입문\과제\wiset-ai-oss-hw\resources\git_2.png)
 
